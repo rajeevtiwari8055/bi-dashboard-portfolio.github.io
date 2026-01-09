@@ -144,7 +144,7 @@ The dashboards are visually appealing, user-friendly, and optimized for insights
 
 ## <span id="project-snapshot">🖼️ Dashboard Snapshot</span>
 
-![Dashboard Snapshot](Dashboard%20Snapshot.jpg)   
+![Dashboard Snapshot](Dashboard%20Snapshot.png)   
 
 ---
 
