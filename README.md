@@ -1,7 +1,7 @@
 
-# Interactive bi Dashboard Portfolio
+# 📊 Interactive bi Dashboard Portfolio
 
-🌐 [Visit interactive dashboard portfolio](https://rajeevtiwari8055.github.io/interactive-dashboard-portfolio.github.io/)
+🌐 [Visit interactive dashboard portfolio](https://rajeevtiwari8055.github.io/bi-dashboard-portfolio.github.io/)
 
 Welcome to **Rajeev Tiwari's Interactive Dashboard Portfolio**! 🚀  
 This repository showcases multiple dashboards built with **Excel, Power BI, Tableau**, and other BI tools. Each dashboard is designed to provide actionable insights, visualize complex data, and demonstrate business intelligence capabilities.
