@@ -1,7 +1,6 @@
-
 # 📊 Interactive bi Dashboard Portfolio
 
-🌐 [Visit interactive dashboard portfolio](https://rajeevtiwari8055.github.io/bi-dashboard-portfolio.github.io/)
+🌐 **[Visit interactive dashboard portfolio](https://rajeevtiwari8055.github.io/bi-dashboard-portfolio.github.io/)**
 
 Welcome to **Rajeev Tiwari's Interactive Dashboard Portfolio**! 🚀  
 This repository showcases multiple dashboards built with **Excel, Power BI, Tableau**, and other BI tools. Each dashboard is designed to provide actionable insights, visualize complex data, and demonstrate business intelligence capabilities.
@@ -9,55 +8,60 @@ This repository showcases multiple dashboards built with **Excel, Power BI, Tabl
 ---
 
 ## 📌 Table of Contents
-1. [Introduction](#introduction)  
-2. [Overview](#overview)  
-3. [Objectives](#objectives)  
-4. [Business Problems Solved](#business-problems-solved)  
-5. [Dashboards Included](#dashboards-included)  
-6. [LinkedIn Services & Networking](#linkedin-services--networking)  
-7. [Tech Stack](#tech-stack)  
-8. [Future Enhancements](#future-enhancements)  
-9. [License & Credits](#license--credits)
-10. [Connect with Me](#Connect-with-Me)
-11. [project-snapshot](#project-snapshot) 
+
+<a href="#introduction">📝 Introduction</a>  
+<a href="#overview">🔍 Overview</a>  
+<a href="#objectives">🎯 Objectives</a>  
+<a href="#business-problems-solved">💼 Business Problems Solved</a>  
+<a href="#dashboards-included">📊 Dashboards Included</a>  
+<a href="#linkedin-services-networking">🤝 LinkedIn Services & Networking</a>  
+<a href="#tech-stack">🛠 Tech Stack</a>  
+<a href="#future-enhancements">🚀 Future Enhancements</a>  
+<a href="#license-credits">📄 License & Credits</a>  
+<a href="#connect-with-me">📬 Connect with Me</a>  
+<a href="#project-snapshot">🖼️ Dashboard Snapshot</a>  
 
 ---
 
-## 📝 Introduction
+## 📝 <span id="introduction">Introduction</span>
+
 This repository is a collection of interactive dashboards that demonstrate **data visualization, business analytics, and performance tracking**. It is designed to help businesses, analysts, and enthusiasts understand trends, monitor KPIs, and make data-driven decisions.
 
 The dashboards are visually appealing, user-friendly, and optimized for insights extraction.
 
 ---
 
-## 🔍 Overview
-- Multiple dashboards covering industries such as **retail, e-commerce, finance, healthcare, and logistics**.  
-- Built using **Excel, Power BI, Tableau**, and other analytics tools.  
-- Live links to the dashboards’ **GitHub repositories** for easy access and learning.  
-- Includes advanced data visualizations, interactive filters, and meaningful insights.  
+## 🔍 <span id="overview">Overview</span>
+
+- Multiple dashboards covering industries such as **retail, e-commerce, finance, healthcare, and logistics**  
+- Built using **Excel, Power BI, Tableau**, and other analytics tools  
+- Live links to the dashboards’ **GitHub repositories** for easy access and learning  
+- Includes advanced data visualizations, interactive filters, and meaningful insights  
 
 ---
 
-## 🎯 Objectives
-1. Showcase practical examples of interactive dashboards.  
-2. Demonstrate data cleaning, transformation, and visualization skills.  
-3. Provide insights for business decision-making.  
-4. Build a professional portfolio for LinkedIn and GitHub.  
-5. Inspire beginners and data enthusiasts to create their own dashboards.  
+## 🎯 <span id="objectives">Objectives</span>
+
+1. Showcase practical examples of interactive dashboards  
+2. Demonstrate data cleaning, transformation, and visualization skills  
+3. Provide insights for business decision-making  
+4. Build a professional portfolio for LinkedIn and GitHub  
+5. Inspire beginners and data enthusiasts to create their own dashboards  
 
 ---
 
-## 💼 Business Problems Solved
-- Monitoring **sales performance** across different regions and products.  
-- Tracking **logistics & delivery efficiency** for food and retail services.  
-- Analyzing **customer behavior & product performance**.  
-- Visualizing **financial trends** and KPI metrics for strategic decisions.  
-- Assessing **employee attrition** and HR metrics.  
-- Understanding **hospital emergency room performance** and resource allocation.  
+## 💼 <span id="business-problems-solved">Business Problems Solved</span>
+
+- Monitoring **sales performance** across different regions and products  
+- Tracking **logistics & delivery efficiency** for food and retail services  
+- Analyzing **customer behavior & product performance**  
+- Visualizing **financial trends** and KPI metrics for strategic decisions  
+- Assessing **employee attrition** and HR metrics  
+- Understanding **hospital emergency room performance** and resource allocation  
 
 ---
 
-## 📊 Dashboards Included
+## 📊 <span id="dashboards-included">Dashboards Included</span>
 
 | Dashboard Title | Description | GitHub Link |
 |-----------------|------------|------------|
@@ -78,14 +82,16 @@ The dashboards are visually appealing, user-friendly, and optimized for insights
 
 ---
 
-## 🤝 LinkedIn Services & Networking
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/rajeevtiwari8055) for portfolio updates and professional insights.  
-- Services offered: **Data Visualization, Excel Dashboards, Power BI Projects, Tableau Analysis, Business Intelligence Consulting**.  
-- Collaboration opportunities for real-world projects, internships, or freelance analytics projects.
+## 🤝 <span id="linkedin-services-networking">LinkedIn Services & Networking</span>
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rajeevtiwari8055) for portfolio updates and professional insights  
+- Services offered: **Data Visualization, Excel Dashboards, Power BI Projects, Tableau Analysis, Business Intelligence Consulting**  
+- Collaboration opportunities for real-world projects, internships, or freelance analytics projects  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 <span id="tech-stack">Tech Stack</span>
+
 - **Excel** – Advanced formulas, pivot tables, charts  
 - **Power BI** – Interactive dashboards, DAX, Power Query  
 - **Tableau** – Storytelling dashboards, charts & maps  
@@ -94,57 +100,48 @@ The dashboards are visually appealing, user-friendly, and optimized for insights
 
 ---
 
-## 🚀 Future Enhancements
-- Add **real-time dashboards** with live data connections.  
-- Integrate **AI-driven analytics** for predictive insights.  
-- Mobile-responsive interactive dashboards.  
-- More **industry-specific dashboards** (banking, healthcare, manufacturing).  
+## 🚀 <span id="future-enhancements">Future Enhancements</span>
+
+- Add **real-time dashboards** with live data connections  
+- Integrate **AI-driven analytics** for predictive insights  
+- Mobile-responsive interactive dashboards  
+- More **industry-specific dashboards** (banking, healthcare, manufacturing)  
 
 ---
 
-## 📄 License & Credits
-- This repository is for **educational and portfolio purposes**.  
-- Built and maintained by **Rajeev Tiwari**.  
-- Inspired by **real-world business problems** and **open-source BI tools**.  
+## 📄 <span id="license-credits">License & Credits</span>
 
-> 💡 Feel free to fork this repository, explore dashboards, and enhance your **data visualization skills**!  
+- This repository is for **educational and portfolio purposes**  
+- Built and maintained by **Rajeev Tiwari**  
+- Inspired by **real-world business problems** and **open-source BI tools**  
+
+> 💡 Feel free to fork this repository, explore dashboards, and enhance your **data visualization skills**!
 
 ---
 
-## <span id="contact">📬 Connect with Me</span>
+## 📬 <span id="connect-with-me">Connect with Me</span>
 
-<!-- Typing Animation / 🤝 Connect with me -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
 <div align="center">
-<!-- 💼 LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
-<!-- 📮 Gmail -->
-<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"></a>
-<!-- ✖️ X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35"></a>  
-<!-- 🆔 GitHub -->
-<a href="https://github.com/rajeevtiwari8055" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"></a>
-<!-- 🌐 Website -->
-<a href="https://rajeevtiwari8055.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"></a>
+<a href="https://www.linkedin.com/in/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
+<a href="mailto:rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>
+<a href="https://x.com/rajeevtiwariRT"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="35"/></a>
+<a href="https://github.com/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="35"/></a>
+<a href="https://rajeevtiwari8055.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="35"/></a>
 </div>
 
-<!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
 
-<!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
-<a href="https://github.com/rajeevtiwari8055/rajeevtiwari8055" alt="GitHub Stars" title="Star my repositories">
+<a href="https://github.com/rajeevtiwari8055/rajeevtiwari8055">
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
 
 ---
 
-## <span id="project-snapshot">🖼️ Dashboard Snapshot</span>
+## 🖼️ <span id="project-snapshot">Dashboard Snapshot</span>
 
-![Dashboard Snapshot](Dashboard%20Snapshot.png)   
-
----
-
+![Dashboard Snapshot](Dashboard%20Snapshot.png)
